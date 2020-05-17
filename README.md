@@ -1,7 +1,8 @@
 # UML
 
-http://note.youdao.com/noteshare?id=e7056c68ea82faacdb5d542365c74625
+迭代1：
 
+- 需求细化文档
 
-
-asd
+> 1. 用例等级划分表
+> 2. 30%的详细用例
